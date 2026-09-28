@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jupyter",
+      "runtimeExecutable": "/Users/axelvalentino/Documents/Coding/Machine learning/venv/bin/jupyter",
+      "runtimeArgs": [
+        "notebook",
+        "--no-browser",
+        "--NotebookApp.token=",
+        "--NotebookApp.password=",
+        "--port",
+        "8888"
+      ],
+      "port": 8888
+    }
+  ]
+}
